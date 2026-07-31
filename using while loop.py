@@ -3,7 +3,7 @@
 n1 = int(input("Enter first number: "))
 n2 = int(input("Enter second number: "))
 n3 = int(input("Enter third number: "))
-numbers = [n1, n2, n3]
+numbers = [n1, n2., n3]
 
 # Variables for while loop
 
