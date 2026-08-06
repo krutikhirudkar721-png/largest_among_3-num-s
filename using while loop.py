@@ -14,6 +14,7 @@ index = 0
 while index < len(numbers):
     if numbers[index] > largest:
         largest = numbers[index]
-    index += 1  # Move to next number
+    index += 1  
+    # Move to next number
 
 print(f"The largest number is: {largest}")
